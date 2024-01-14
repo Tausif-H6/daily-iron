@@ -9,8 +9,8 @@ export default function Home() {
       <Image
         className="md:order-2 object-cover ml-auto animate-updown"
         src={heroIcon}
-        width="500px"
-        height="500px"
+        width={500}
+        height={500}
         alt="Banner"
       />
     </main>
